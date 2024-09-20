@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bird Animation</string>
+    <string name="bird_animation">Bird Animation</string>
+    <string name="frameDuration">100</string>
+</resources>
